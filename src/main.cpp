@@ -4,8 +4,8 @@
 #include <WebServer.h>
 
 // Configuração da rede Wi-Fi
-const char* nomeRede = "MeuAplicativo";
-const char* senhaRede = "AppLocal2026";
+const char* nomeRede = "EscolhaONome";
+const char* senhaRede = "EscolhaASenha";
 
 // Servidor HTTP na porta 80
 WebServer servidor(80);
